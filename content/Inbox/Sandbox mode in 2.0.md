@@ -2,12 +2,8 @@
 title: Sandbox mode in 2.0
 source: https://steamcommunity.com/sharedfiles/filedetails/?id=3353397022
 created: 2024-10-24
-description: Sandbox mode was removed in the new 2.0 Update, in this guide im going to show you how to create a sandbox map without going into older versions of the game....
+description: Sandbox mode was removed in the new 2.0 Update, in this guide I'm going to show you how to create a sandbox map without going into older versions of the game....
 ---
-`Sandbox mode was removed in the new 2.0 Update, in this guide I'm,,l,. going to show you how to create a sandbox map without going into older versions of the game.
-
-## Introduction
-
 The easiest way to create a new sandbox mode in the new 2.0 update is to create a new map and then use the /cheat command to have but we still don't have unlimited electricity power so in this guide i'm going to teach you how to have unlimited electricity power and have Lab Tiles in the map in case you want them.
 
 Before we start this "Sandbox mode" isn't exactly like the real Sandbox mode Factorio used to have but its really close to it.
