@@ -1,0 +1,8 @@
+
+# Iron
+
+# Copper
+
+# Stone
+
+# Coal
