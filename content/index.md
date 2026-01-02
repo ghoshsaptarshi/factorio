@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Factorio Mods Wiki
+tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to Factorio Mods wiki. This is a work in progress
